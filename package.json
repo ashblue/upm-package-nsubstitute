@@ -1,0 +1,10 @@
+{
+  "name": "clever-crow.nsubstitute",
+  "displayName": "NSubstitute",
+  "version": "2.0.3",
+  "unity": "2018",
+  "author": "Ash Blue",
+  "description": "Simple wrapper to include NSubstitute as a package",
+  "dependencies": {
+  }
+}
